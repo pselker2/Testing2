@@ -19,7 +19,7 @@ function setup() {
       this.currentLanguage = current;
     },
     services: [
-      { url: '20028162201@go.webex.com', name: 'Loan' },
+      { url: 'pselker@cisco.com', name: 'Loan' },
       { url: 'pselker@cisco.com', name: 'Advice' },
       { url: 'erica.talking@ivr.vc', name: 'Credit' },
     ],
