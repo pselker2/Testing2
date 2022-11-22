@@ -19,9 +19,9 @@ function setup() {
       this.currentLanguage = current;
     },
     services: [
-      { url: 'pselker@cisco.call.ciscospark.com', name: 'Loan' },
-      { url: 'pselker@cisco.com', name: 'Advice' },
-      { url: 'erica.talking@ivr.vc', name: 'Credit' },
+      { url: 'pselker@cisco.call.ciscospark.com', name: 'Bookings' },
+      { url: 'pselker@cisco.com', name: 'Support' },
+      { url: 'erica.talking@ivr.vc', name: 'Front Desk' },
     ],
   });
 
