@@ -102,9 +102,9 @@ button {
   background-size: cover;
 }
 
-.Loan .avatar { background-image: url('./images/avatar1.jpg'); }
-.Advice .avatar { background-image: url('./images/avatar2.jpg'); }
-.Credit .avatar { background-image: url('./images/ahauge.png'); }
+.Bookings .avatar { background-image: url('./images/avatar1.jpg'); }
+.Support .avatar { background-image: url('./images/avatar2.jpg'); }
+.Directory .avatar { background-image: url('./images/ahauge.png'); }
 
 .back {
   position: absolute;
