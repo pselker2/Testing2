@@ -20,7 +20,7 @@ function setup() {
     },
     services: [
       { url: 'pselker@cisco.call.ciscospark.com', name: 'Bookings' },
-      { url: 'pselker@cisco.com', name: 'Support' },
+      { url: 'luvelasc@cisco.call.ciscospark.com', name: 'Support' },
       { url: 'erica.talking@ivr.vc', name: 'Directory' },
     ],
   });
