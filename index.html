@@ -16,7 +16,7 @@
   x-data="{ page, services, language, languages } = $store.model"
 >
   <div class="home-screen" x-show="page === 'home'">
-    <h1>Webex Bank</h1>
+    <h1>Herndon CXC</h1>
 
     <h2 @click="page = 'service'" class="touch-to-start">Touch to start</h2>
 
@@ -33,7 +33,7 @@
   </div>
 
   <div class="service" x-show="page === 'service'">
-    <h2>Choose Your Service</h2>
+    <h2>Concierge Services</h2>
     <div class="row">
       <template x-for="service in services">
         <a class="service" x-bind:href="'sip:'+ service.url" :class="service.name">
