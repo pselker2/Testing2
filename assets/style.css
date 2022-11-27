@@ -81,7 +81,7 @@ h1, h2 {
 }
 
 .dir {
-  display: inline-flex;
+  display: inline;
 }
 
 .service {
