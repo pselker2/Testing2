@@ -23,7 +23,7 @@ function setup() {
         { url: 'luvelasc@cisco.call.ciscospark.com', name: 'Support' },
       ],
       services2: [
-        { url: 'pselker@cisco.call.ciscospark.com', name: 'Phil selker' },
+        { url: 'pselker@cisco.call.ciscospark.com', name: 'Phil Selker' },
         { url: 'luvelasc@cisco.call.ciscospark.com', name: 'Luis Velasco' },
         { url: 'jmulkeri@cisco.call.ciscospark.com', name: 'Jay Mulkerin' },
         { url: 'evazzana@cisco.call.ciscospark.com', name: 'Eric Vazzana' },
