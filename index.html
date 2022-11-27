@@ -47,9 +47,8 @@
           <div x-show="open" @click.outside="open = false">
             <template x-for="service in services2">
               <a class="service" x-bind:href="'sip:' + service.url" :class="service.name"> 
-               
+                  <label x-text="service.name"></label>
               </a>
-              <label x-text="service.name"></label>
             </template>
           </div>
         </div> 
