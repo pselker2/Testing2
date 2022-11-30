@@ -82,6 +82,11 @@ h1, h2 {
 
 .dir {
   display: inline;
+  height: 100px;
+  width: 150px;
+  border:  10px;
+  font-size:  30px;
+  overflow:auto;
 }
 
 .service {
